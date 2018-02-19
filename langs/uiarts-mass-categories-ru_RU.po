@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mass Categories Actions v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-19 02:10+0000\n"
+"PO-Revision-Date: 2018-02-19 14:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ uiarts-mass-categories
+#: uiarts-mass-categories.php:51
+msgid "Add to Categories"
+msgstr "Добавить в рубрики"
+
+# @ uiarts-mass-categories
+#: uiarts-mass-categories.php:52
+msgid "Move to Categories"
+msgstr "Переместить в рубрики"
+
+# @ uiarts-mass-categories
+#: uiarts-mass-categories.php:53
+msgid "Remove from Categories"
+msgstr "Удалить из рубрик"
+
+# @ uiarts-mass-categories
+#. translators: plugin header field 'Name'
+#: uiarts-mass-categories.php:0
+msgid "Mass Categories Actions"
+msgstr ""
+
+# @ uiarts-mass-categories
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: uiarts-mass-categories.php:0
+msgid "https://www.ui-arts.com"
+msgstr ""
+
+# @ uiarts-mass-categories
+#. translators: plugin header field 'Description'
+#: uiarts-mass-categories.php:0
+msgid "Enables mass add/remove category to post"
+msgstr "Включает массовое добавление/удаление рубрики для записей"
+
+# @ uiarts-mass-categories
+#. translators: plugin header field 'Author'
+#: uiarts-mass-categories.php:0
+msgid "Igor Usoltsev"
+msgstr ""
+
+# @ uiarts-mass-categories
+#. translators: plugin header field 'Version'
+#: uiarts-mass-categories.php:0
+msgid "1.0.0"
+msgstr ""
